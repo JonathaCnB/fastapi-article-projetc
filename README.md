@@ -1,4 +1,4 @@
-# FastAPI usando templates Jinja2 e HTMX
+# FastAPI com docker
 Projeto para fixação de aprendizagem! 
 
 ## Download & Instruções para instalação.
